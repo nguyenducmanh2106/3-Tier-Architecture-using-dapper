@@ -14,3 +14,14 @@ F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IBLL\bin\Debug\Dapp
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.csprojResolveAssemblyReference.cache
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.dll
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\Dapper.IBLL.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\Dapper.IBLL.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\Dapper.Model.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\DapperExtensions.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\Dapper.Model.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\bin\Debug\DapperExtensions.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.csproj.AssemblyReference.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.csproj.CoreCompileInputs.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.csproj.CopyComplete
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IBLL\obj\Debug\Dapper.IBLL.pdb

@@ -9,3 +9,12 @@ F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\bin\Debug\Dap
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.csprojResolveAssemblyReference.cache
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.dll
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.Model\obj\Debug\Dapper.Model.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\bin\Debug\Dapper.Model.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\bin\Debug\Dapper.Model.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\bin\Debug\DapperExtensions.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\bin\Debug\DapperExtensions.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\obj\Debug\Dapper.Model.csproj.AssemblyReference.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\obj\Debug\Dapper.Model.csproj.CoreCompileInputs.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\obj\Debug\Dapper.Model.csproj.CopyComplete
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\obj\Debug\Dapper.Model.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.Model\obj\Debug\Dapper.Model.pdb

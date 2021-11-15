@@ -20,7 +20,8 @@ namespace Dapper.Factory
     public class ConnectionFactory
     {
         private static readonly string connectionName = ConfigurationManager.AppSettings["ConnectionName"];
-        private static readonly string connString = ConfigurationManager.ConnectionStrings["Database"].ConnectionString;
+        private static readonly string connStringMySQL = ConfigurationManager.ConnectionStrings["DatabaseMySQL"].ConnectionString;
+        private static readonly string connStringSQLServer = ConfigurationManager.ConnectionStrings["DatabaseSQLServer"].ConnectionString;
 
         public static IDbConnection CreateConnection()
         {
@@ -28,13 +29,13 @@ namespace Dapper.Factory
             switch (connectionName)
             {
                 case "SQLServer":
-                    conn = new SqlConnection(connString);
+                    conn = new SqlConnection(connStringSQLServer);
                     break;
                 case "MySQL":
-                    conn = new MySqlConnection(connString);
+                    conn = new MySqlConnection(connStringMySQL);
                     break;
                 default:
-                    conn = new SqlConnection(connString);
+                    conn = new SqlConnection(connStringSQLServer);
                     break;
             }
             conn.Open();

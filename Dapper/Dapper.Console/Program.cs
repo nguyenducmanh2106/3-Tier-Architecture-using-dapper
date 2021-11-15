@@ -15,13 +15,23 @@ namespace Dapper.Console
     {
         static void Main(string[] args)
         {
-            IBookBLL bll = new BookBLL();
-            var list = bll.GetBookList();
-            foreach (var item in list)
+            System.Console.OutputEncoding = Encoding.UTF8;
+            try
             {
-                System.Console.WriteLine(item);
+                IBookBLL bll = new BookBLL();
+                var list = bll.GetBookList();
+                foreach (var item in list)
+                {
+                    System.Console.WriteLine(item);
+                }
+                //System.Console.WriteLine("\u2103");
+                System.Console.WriteLine(bll.GetEntity("27"));
             }
-            System.Console.WriteLine(bll.GetEntity("27"));
+            catch(Exception ex)
+            {
+                throw ex;
+            }
+            System.Console.ReadLine();
         }
     }
 }

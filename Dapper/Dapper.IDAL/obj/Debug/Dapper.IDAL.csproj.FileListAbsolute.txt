@@ -14,3 +14,14 @@ F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\bin\Debug\Dapp
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csprojResolveAssemblyReference.cache
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.dll
 F:\CodingPeasants\C#.NET\SourceCode\Dapper.NET\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\Dapper.IDAL.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\DapperExtensions.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\Dapper.Model.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\bin\Debug\DapperExtensions.pdb
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csproj.AssemblyReference.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csproj.CoreCompileInputs.cache
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.csproj.CopyComplete
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.dll
+D:\3-Tier-Architecture-using-dapper\Dapper\Dapper.IDAL\obj\Debug\Dapper.IDAL.pdb
